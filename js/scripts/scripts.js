@@ -13,8 +13,7 @@
     });
     var screen_width = $(window).width();
     $('#h_section7 .wrap .inner-wrap').click(function(){
-        // $(this).html('<iframe src="360/" title="Virtual Tour"></iframe>');
-        $(this).html('<span class="comming-soon">comming soon...</span>');
+        $(this).html('<iframe src="360/" title="Virtual Tour"></iframe>');
         $('#h_section7 ._close').css('display','flex');
     });
     $('#h_section7 ._close').click(function(){
