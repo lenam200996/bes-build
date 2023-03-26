@@ -1238,10 +1238,10 @@ svg .cicle:nth-of-type(3n) {
 }
 .banner-def {
     width: 100%;
-    padding-top: 31.25%;
-    background-position: 50%;
-    background-repeat: no-repeat;
-    background-size: cover;
+    /* padding-top: 31.25%; */
+    background-position: 50% !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
     position: relative;
     z-index: 1;
 }
@@ -1250,7 +1250,7 @@ svg .cicle:nth-of-type(3n) {
 }
 @media (max-width: 1024px) {
     .banner-def {
-        padding-top: 40.25%;
+        /* padding-top: 40.25%; */
     }
 }
 @media (max-width: 768px) {
@@ -2970,6 +2970,7 @@ svg .cicle:nth-of-type(3n) {
 }
 .container_common .content_common {
     padding: 0 8.3333333333%;
+    
 }
 @media (max-width: 1280px) {
     .container_common .content_common {
@@ -3998,10 +3999,11 @@ header .coating_header.is_active {
     z-index: 1;
 }
 @media (max-width: 1024px) {
-    .h_section1 {
+    .h_section1:not(#h_section-contact2) {
         background-image: url(/images/home/bg-mobi.png) !important;
         padding-bottom: 200px;
     }
+    
 }
 @media (max-width: 600px) {
     .h_section1 {
