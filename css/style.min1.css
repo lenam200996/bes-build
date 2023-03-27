@@ -1255,7 +1255,7 @@ svg .cicle:nth-of-type(3n) {
 }
 @media (max-width: 768px) {
     .banner-def {
-        padding-top: 60.25%;
+        padding-top: 6px
     }
 }
 @media (max-width: 480px) {
@@ -1894,27 +1894,27 @@ svg .cicle:nth-of-type(3n) {
         display: flex;
     }
 }
-.js_list_why_buv {
+.js_list_why_BES {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
-.js_list_why_buv .slick-item {
+.js_list_why_BES .slick-item {
     width: calc((100% - 6px) / 3);
     height: auto;
     border: 1px solid #f2f2f2;
 }
 @media (max-width: 480px) {
-    .js_list_why_buv {
+    .js_list_why_BES {
         justify-content: normal;
     }
-    .js_list_why_buv .slick-item {
+    .js_list_why_BES .slick-item {
         width: auto;
         margin-bottom: 25px;
         border: 0;
     }
 }
-.js_list_why_buv .ques {
+.js_list_why_BES .ques {
     padding: 28px 53px 17px 47px;
     display: flex;
     flex-direction: column;
@@ -1925,16 +1925,16 @@ svg .cicle:nth-of-type(3n) {
     background: #fff;
 }
 @media (max-width: 768px) {
-    .js_list_why_buv .ques {
+    .js_list_why_BES .ques {
         padding: 20px 30px 17px;
     }
 }
 @media (max-width: 480px) {
-    .js_list_why_buv .ques {
+    .js_list_why_BES .ques {
         padding: 15px 60px 0;
     }
 }
-.js_list_why_buv .ques .top {
+.js_list_why_BES .ques .top {
     display: flex;
     align-items: center;
     font-size: 40px;
@@ -1946,26 +1946,26 @@ svg .cicle:nth-of-type(3n) {
     margin-bottom: 8px;
 }
 @media (max-width: 480px) {
-    .js_list_why_buv .ques .top {
+    .js_list_why_BES .ques .top {
         margin-bottom: 10px;
         font-size: 36px;
         line-height: 44px;
     }
 }
-.js_list_why_buv .ques .top .icon {
+.js_list_why_BES .ques .top .icon {
     width: 46px;
     margin-right: 12px;
 }
-.js_list_why_buv .ques .top .icon img {
+.js_list_why_BES .ques .top .icon img {
     display: block;
     max-width: 100%;
 }
 @media (max-width: 480px) {
-    .js_list_why_buv .ques .top .icon {
+    .js_list_why_BES .ques .top .icon {
         width: 40px;
     }
 }
-.js_list_why_buv .ques strong {
+.js_list_why_BES .ques strong {
     font-weight: 500;
     font-size: 16px;
     line-height: 22px;
@@ -1975,7 +1975,7 @@ svg .cicle:nth-of-type(3n) {
     margin-bottom: 6px;
 }
 @media (max-width: 480px) {
-    .js_list_why_buv .ques strong {
+    .js_list_why_BES .ques strong {
         font-size: 15px;
         line-height: 21px;
     }

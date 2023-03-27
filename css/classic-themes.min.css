@@ -1,4 +1,7 @@
 /*! This file is auto-generated */
+body{
+  scroll-behavior: smooth;
+}
 .wp-block-button__link {
   color: #fff;
   background-color: #32373c;

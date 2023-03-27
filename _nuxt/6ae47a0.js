@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{1327:function(n,o,t){"use strict";t.r(o),o.default={home:"Trang chủ",about:"Giới thiệu"}}}]);

@@ -1,8 +1,28 @@
+/*!
+ * Vue.js v2.7.14
+ * (c) 2014-2022 Evan You
+ * Released under the MIT License.
+ */
+
+/*!
+ * cookie
+ * Copyright(c) 2012-2014 Roman Shtylman
+ * Copyright(c) 2015 Douglas Christopher Wilson
+ * MIT Licensed
+ */
+
+
 /*
 object-assign
 (c) Sindre Sorhus
 @license MIT
 */
+
+/*!
+	 * imagesLoaded v4.1.1
+	 * JavaScript is all like "You images are done yet or what?"
+	 * MIT License
+	 */
 
 /*!
 	Copyright (c) 2018 Jed Watson.
@@ -17,6 +37,12 @@ object-assign
  */
 
 /*!
+ * vue-i18n v8.28.2 
+ * (c) 2022 kazuya kawaguchi
+ * Released under the MIT License.
+ */
+
+/*!
  * vue-no-ssr v1.1.1
  * (c) 2018-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
@@ -25,10 +51,3 @@ object-assign
 //! moment.js
 
 //! moment.js locale configuration
-
-
-/*!
- * Vue.js v2.7.14
- * (c) 2014-2022 Evan You
- * Released under the MIT License.
- */

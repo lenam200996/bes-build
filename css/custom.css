@@ -989,3 +989,11 @@
 .main-header{
   margin-top: 109px;
 }
+.app-down-btn {
+  display: flex;
+  margin-top: 24px;
+  gap: 10px
+}
+.app-down-btn > div> img {
+  height: 70px;
+}
