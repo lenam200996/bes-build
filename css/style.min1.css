@@ -392,7 +392,7 @@ svg .cicle:nth-of-type(3n) {
     position: relative;
     display: inline-block;
     height: 48px;
-    background: #d71f27;
+    background: var(--color-main);
     font-family: AvenirLTStd-Heavy\.ttf;
     font-size: 16px;
     line-height: 48px;
@@ -3320,7 +3320,7 @@ header .header-main .menu-main .menu span {
 @media (min-width: 1025px) {
     header .header-main .menu-main .menu a:hover,
     header .header-main .menu-main .menu span:hover {
-        color: #d71f27;
+        color: var(--color-main);
     }
 }
 @media (max-width: 1024px) {
@@ -3594,7 +3594,7 @@ header .header-main .menu-main .language li.current-lang a {
 }
 header .header-main._scroll {
     background-color: #fff;
-    box-shadow: 0 0 6px rgba(215, 31, 39, 0.45);
+    box-shadow: 0 0 6px rgba(71, 62, 62, 0.45);
     height: 75px;
 }
 header .header-main._scroll > .top-nav{
@@ -4441,7 +4441,7 @@ header .coating_header.is_active {
 }
 .h_section4 {
     position: relative;
-    background-image: url(/images/home/s4-bg.png);
+    background-image: url(/images/home/s4-bg-1.png);
     background-size: cover;
     background-position: 50%;
     z-index: 2;
