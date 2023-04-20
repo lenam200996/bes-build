@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{1341:function(n,t,e){"use strict";e.r(t);var c=e(65),component=Object(c.a)({},(function(){return(0,this._self._c)("div",[this._v("website-privacy")])}),[],!1,null,null,null);t.default=component.exports}}]);
