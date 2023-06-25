@@ -3333,8 +3333,7 @@ header .header-main .menu-main .menu li {
     position: relative;
     display: inline-block;
     padding: 26px 0;
-    margin: 0 0 0 5.3016453382%;
-    text-align: center;
+    margin: 0 0 0 3.5%;
 }
 header .header-main .menu-main .menu li.current-menu-item a,
 header .header-main .menu-main .menu li.current_page_item a,
@@ -3347,7 +3346,13 @@ header .header-main .menu-main .menu li.menu-item-has-children {
 
 @media (max-width: 1366px) {
     header .header-main .menu-main .menu li {
-        margin-left: 32px;
+        margin-left: 24px;
+    }
+}
+
+@media (max-width: 1200px) {
+    header .header-main .menu-main .menu li {
+        margin-left: 19px;
     }
 }
 
