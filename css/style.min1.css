@@ -2784,7 +2784,7 @@ svg .cicle:nth-of-type(3n) {
 }
 .box__online__application__form .online__applycation__form._page_form_campus .content_common .content-main .form-item .frm-all .frm-group input,
 .box__online__application__form .online__applycation__form._page_form_campus .content_common .content-main .form-item .frm-all .frm-group select {
-    height: 37px;
+    height: 32px;
     font-family: AvenirLTStd-Light\.ttf;
     font-size: 14px;
     color: #333;
@@ -13919,7 +13919,6 @@ header .coating_header.is_active {
     position: relative;
     z-index: 0;
     margin-bottom: 56px;
-    padding-left: 10%;
 }
 @media (max-width: 768px) {
     .page-about .content-page .section2 .content_section2 {
