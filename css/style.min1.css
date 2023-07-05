@@ -4478,7 +4478,7 @@ header .coating_header.is_active {
 .h_section4 .content_common ._list_degree ._item {
     width: 25%;
     background: #fff;
-    border-right: 1px solid #f2f2f2;
+    border: 1px solid #f2f2f2;
     padding: 34px 15px 15px 30px;
     height: 232px;
     overflow: hidden;
