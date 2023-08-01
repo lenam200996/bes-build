@@ -4012,7 +4012,7 @@ header .coating_header.is_active {
 @media (max-width: 1024px) {
     .h_section1:not(#h_section-contact2) {
         background-image: url(/images/home/bg-mobi.png) !important;
-        padding-bottom: 200px;
+        /* padding-bottom: 200px; */
     }
 
     .top-nav {
