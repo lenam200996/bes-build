@@ -3846,6 +3846,8 @@ header .coating_header.is_active {
 .footer-main .content ._left .follow .copyright {
     letter-spacing: 0.01em;
     color: #969696;
+    font-size: 14px;
+    font-family: Brandon_reg\.otf;
 }
 .footer-main .content ._left ._intro {
     display: none;
@@ -14103,11 +14105,11 @@ header .coating_header.is_active {
     margin-right: 35px;
 }
 .page-about .content-page .section2 .content_section2 .swiper-slide .right .the_content_def {
-    height: 385px;
+    /* height: 385px!important; */
 }
 @media (max-width: 768px) {
     .page-about .content-page .section2 .content_section2 .swiper-slide .right .the_content_def {
-        height: 290px;
+        /* height: 290px; */
     }
 }
 .page-about .content-page .section2 .content_section2 .swiper-slide .right .the_content_def ul li {
