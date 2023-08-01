@@ -3799,7 +3799,7 @@ header .coating_header.is_active {
     display: block;
 }
 .footer-main .content ._intro ._item p:first-of-type {
-    font-family: AvenirLTStd-Heavy\.ttf;
+    font-family: Brandon_reg\.otf;
     width: 70px;
 }
 .footer-main .content ._intro ._item p:nth-of-type(2) {
@@ -3809,7 +3809,7 @@ header .coating_header.is_active {
     font-family: AvenirLTStd-Light\.ttf;
 }
 .footer-main .content ._intro ._item:first-of-type p {
-    font-family: AvenirLTStd-Heavy\.ttf;
+    font-family: Brandon_reg\.otf;
 }
 .footer-main .content ._intro ._item:last-child {
     margin-bottom: 0;
@@ -3919,7 +3919,7 @@ header .coating_header.is_active {
     left: 0;
     width: 6px;
     height: 100%;
-    background: #fff
+    background: var(--color-main)
 }
 .footer-main .content ._center .item ul li {
     margin-bottom: 5px;
@@ -4013,6 +4013,10 @@ header .coating_header.is_active {
     .h_section1:not(#h_section-contact2) {
         background-image: url(/images/home/bg-mobi.png) !important;
         padding-bottom: 200px;
+    }
+
+    .top-nav {
+        display: none!important;
     }
     
 }
