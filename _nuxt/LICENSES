@@ -8,6 +8,20 @@
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 
+/*!
+ * Vue.js v2.7.14
+ * (c) 2014-2022 Evan You
+ * Released under the MIT License.
+ */
+
+/*!
+ * cookie
+ * Copyright(c) 2012-2014 Roman Shtylman
+ * Copyright(c) 2015 Douglas Christopher Wilson
+ * MIT Licensed
+ */
+
+
 /*
 object-assign
 (c) Sindre Sorhus
@@ -47,17 +61,3 @@ object-assign
 //! moment.js
 
 //! moment.js locale configuration
-
-
-/*!
- * Vue.js v2.7.14
- * (c) 2014-2022 Evan You
- * Released under the MIT License.
- */
-
-/*!
- * cookie
- * Copyright(c) 2012-2014 Roman Shtylman
- * Copyright(c) 2015 Douglas Christopher Wilson
- * MIT Licensed
- */
