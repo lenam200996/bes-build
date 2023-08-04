@@ -2974,12 +2974,12 @@ svg .cicle:nth-of-type(3n) {
 }
 @media (max-width: 1280px) {
     .container_common .content_common {
-        padding: 0 50px;
+        /* padding: 0 50px; */
     }
 }
 @media (max-width: 1024px) {
     .container_common .content_common {
-        padding: 0 30px;
+        /* padding: 0 30px; */
     }
 }
 @media (max-width: 480px) {
@@ -6118,7 +6118,7 @@ header .coating_header.is_active {
 .page-programme .content-page .container_common .content_common ._wrapper .section6 .content-section6 .content_table table tr th:first-child {
     width: 31.5476190476%;
     text-align: left;
-    padding-left: 27px;
+    /* padding-left: 27px; */
     align-items: center;
     justify-content: unset;
     font-weight: 400 !important;
@@ -6128,7 +6128,7 @@ header .coating_header.is_active {
 @media (max-width: 768px) {
     .page-programme .content-page .container_common .content_common ._wrapper .section6 .content-section6 .content_table table tr td:first-child,
     .page-programme .content-page .container_common .content_common ._wrapper .section6 .content-section6 .content_table table tr th:first-child {
-        width: 180px !important;
+        width: 200px !important;
     }
 }
 .page-programme .content-page .container_common .content_common ._wrapper .section6 .content-section6 .content_table table tr td:nth-child(2),
@@ -6138,7 +6138,7 @@ header .coating_header.is_active {
 @media (max-width: 768px) {
     .page-programme .content-page .container_common .content_common ._wrapper .section6 .content-section6 .content_table table tr td:nth-child(2),
     .page-programme .content-page .container_common .content_common ._wrapper .section6 .content-section6 .content_table table tr th:nth-child(2) {
-        width: 130px !important;
+        width: 200px !important;
     }
 }
 .page-programme .content-page .container_common .content_common ._wrapper .section6 .content-section6 .content_table table tr td:nth-child(3),
@@ -6148,7 +6148,7 @@ header .coating_header.is_active {
 @media (max-width: 768px) {
     .page-programme .content-page .container_common .content_common ._wrapper .section6 .content-section6 .content_table table tr td:nth-child(3),
     .page-programme .content-page .container_common .content_common ._wrapper .section6 .content-section6 .content_table table tr th:nth-child(3) {
-        width: 130px !important;
+        width: 140px !important;
     }
 }
 .page-programme .content-page .container_common .content_common ._wrapper .section6 .content-section6 .content_table table tr td:nth-child(4),
