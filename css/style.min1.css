@@ -891,7 +891,8 @@ svg .cicle:nth-of-type(3n) {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    flex-direction: row;
+    flex-direction: column;
+    font-size: 14px;
     color: #949494;
 }
 .new_event .text .intro svg {
@@ -4663,7 +4664,7 @@ header .coating_header.is_active {
 }
 .h_section5 .content_common ._content ._left {
     position: relative;
-    width: 100%;
+    width: 65.8%;
     display: flex;
 }
 #h_section_story .content_common ._content ._left{
